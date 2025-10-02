@@ -112,7 +112,7 @@ order by revenue desc;
 ---
 
 ## 📂 Files in Repository
-- `queries.sql` → All SQL queries  
+- `pizza.sql` → All SQL queries  
 - `README.md` → Project documentation  
 - `pizzas.csv`, `pizza_types.csv`, `orders.csv`, `order_details.csv` → Dataset  
 
